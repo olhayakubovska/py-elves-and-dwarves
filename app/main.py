@@ -12,4 +12,4 @@ def elves_concert(elves: list) -> None:
 
 def feast_of_the_dwarves(dwarves: list) -> None:
     for item in dwarves:
-        item.eatDwarfBlacksmith()
+        item.eat_favourite_dish()
